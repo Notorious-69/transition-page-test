@@ -2,7 +2,9 @@
 <template>
   <div>
     <h1>page 1</h1>
-    <NuxtLink to="/test">page 2</NuxtLink>
+    <button>
+      <NuxtLink to="/test">page 2</NuxtLink>
+    </button>
   </div>
 </template>
 <style scoped></style>
